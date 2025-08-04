@@ -2,6 +2,9 @@
 
 Website Tracker is a simple yet effective Chrome extension that helps you keep track of URLs for your research, reading, or prospecting. Save websites either manually or with a single click using the "Save Tab" button. Your saved links are stored locally and persist even when you close the browser.
 
+![image](https://github.com/user-attachments/assets/9d97304c-0bad-4825-8d19-81ebc007d42d)
+
+
 ## Features
 - Save URLs manually via input field
 - Save the current browser tab instantly
